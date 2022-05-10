@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\hafta_8\hafta_8\obj\Debug\hafta_8.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\hafta_8\hafta_8\obj\Debug\hafta_8.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\hafta_8\hafta_8\bin\Debug\hafta_8.exe.config
+C:\Users\yusuf\source\repos\hafta_8\hafta_8\bin\Debug\hafta_8.exe
+C:\Users\yusuf\source\repos\hafta_8\hafta_8\bin\Debug\hafta_8.pdb
+C:\Users\yusuf\source\repos\hafta_8\hafta_8\obj\Debug\hafta_8.exe
+C:\Users\yusuf\source\repos\hafta_8\hafta_8\obj\Debug\hafta_8.pdb

@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication2\6_2\bin\Debug\6_2.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication2\6_2\bin\Debug\6_2.pdb
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication2\6_2\obj\Debug\6_2.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication2\6_2\obj\Debug\6_2.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_6\6. hafta\6_2\obj\Debug\6_2.exe
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_6\6. hafta\6_2\obj\Debug\6_2.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_6\6. hafta\6_2\bin\Debug\6_2.exe
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_6\6. hafta\6_2\bin\Debug\6_2.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_6\6. hafta\6_2\obj\Debug\6_2.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_6\6. hafta\6_2\obj\Debug\6_2.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_6\6. hafta\6_2\obj\Debug\6_2.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_6\6. hafta\6_2\obj\Debug\6_2.exe
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_6\6. hafta\6_2\obj\Debug\6_2.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_6\6. hafta\6_2\bin\Debug\6_2.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_6\6. hafta\6_2\bin\Debug\6_2.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_6\6. hafta\6_2\obj\Debug\6_2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_6\6. hafta\6_2\obj\Debug\6_2.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_6\6. hafta\6_2\obj\Debug\6_2.pdb

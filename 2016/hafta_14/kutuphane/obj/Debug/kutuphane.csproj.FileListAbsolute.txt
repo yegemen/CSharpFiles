@@ -1,0 +1,21 @@
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\kutuphane\bin\Debug\kutuphane.dll
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\kutuphane\obj\Debug\kutuphane.csprojResolveAssemblyReference.cache
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\kutuphane\obj\Debug\kutuphane.dll
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\kutuphane\obj\Debug\kutuphane.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\kutuphane\bin\Debug\kutuphane.dll
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\kutuphane\obj\Debug\kutuphane.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\kutuphane\obj\Debug\kutuphane.dll
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\kutuphane\obj\Debug\kutuphane.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\kutuphane\bin\Debug\kutuphane.dll
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\kutuphane\obj\Debug\kutuphane.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\kutuphane\obj\Debug\kutuphane.dll
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\kutuphane\obj\Debug\kutuphane.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\kutuphane\bin\Debug\kutuphane.dll
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\kutuphane\bin\Debug\kutuphane.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\kutuphane\obj\Debug\kutuphane.dll
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\kutuphane\obj\Debug\kutuphane.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\kutuphane\obj\Debug\kutuphane.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\kutuphane\obj\Debug\kutuphane.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_5\hafta5\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_5\hafta5\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_5\hafta5\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_5\hafta5\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache

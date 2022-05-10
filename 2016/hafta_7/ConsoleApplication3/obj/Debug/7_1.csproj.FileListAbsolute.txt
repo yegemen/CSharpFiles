@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_7\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_7\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_7\ConsoleApplication3\obj\Debug\7_1.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_7\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_7\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

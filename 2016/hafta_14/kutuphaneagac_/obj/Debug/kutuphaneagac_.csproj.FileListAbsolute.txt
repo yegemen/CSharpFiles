@@ -1,0 +1,9 @@
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\kutuphaneagac_\bin\Debug\kutuphaneagac_.dll
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\kutuphaneagac_\bin\Debug\kutuphaneagac_.pdb
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\kutuphaneagac_\obj\Debug\kutuphaneagac_.dll
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\kutuphaneagac_\obj\Debug\kutuphaneagac_.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\kutuphaneagac_\bin\Debug\kutuphaneagac_.dll
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\kutuphaneagac_\bin\Debug\kutuphaneagac_.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\kutuphaneagac_\obj\Debug\kutuphaneagac_.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\kutuphaneagac_\obj\Debug\kutuphaneagac_.dll
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\kutuphaneagac_\obj\Debug\kutuphaneagac_.pdb

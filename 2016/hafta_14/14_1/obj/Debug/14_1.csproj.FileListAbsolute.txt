@@ -1,0 +1,34 @@
+c:\users\a.hkul\documents\visual studio 2012\Projects\14_1\14_1\bin\Debug\14_1.exe.config
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\14_1\bin\Debug\14_1.exe
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\14_1\bin\Debug\14_1.pdb
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\14_1\bin\Debug\kutuphane.dll
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\14_1\bin\Debug\kutuphane.pdb
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\14_1\obj\Debug\14_1.csprojResolveAssemblyReference.cache
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\14_1\obj\Debug\14_1.exe
+C:\Users\a.HKUL\documents\visual studio 2012\Projects\14_1\14_1\obj\Debug\14_1.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_1\bin\Debug\14_1.exe.config
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_1\obj\Debug\14_1.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_1\obj\Debug\14_1.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_1\bin\Debug\14_1.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_1\bin\Debug\14_1.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_1\bin\Debug\kutuphane.dll
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_1\bin\Debug\kutuphane.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_1\obj\Debug\14_1.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_1\bin\Debug\14_1.exe.config
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_1\obj\Debug\14_1.exe
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_1\obj\Debug\14_1.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_1\bin\Debug\14_1.exe
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_1\bin\Debug\14_1.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_1\bin\Debug\kutuphane.dll
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_1\bin\Debug\kutuphane.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_1\obj\Debug\14_1.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\14_1\bin\Debug\14_1.exe.config
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\14_1\bin\Debug\14_1.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\14_1\bin\Debug\14_1.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\14_1\bin\Debug\kutuphane.dll
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\14_1\bin\Debug\kutuphane.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\14_1\obj\Debug\14_1.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\14_1\obj\Debug\14_1.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\14_1\obj\Debug\14_1.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\14_1\obj\Debug\14_1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_14\14_1\obj\Debug\14_1.csproj.CopyComplete

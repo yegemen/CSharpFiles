@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\WindowsFormHafta8\WindowsFormHafta8\obj\Debug\WindowsFormHafta8.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\WindowsFormHafta8\WindowsFormHafta8\obj\Debug\WindowsFormHafta8.Form1.resources
+C:\Users\yusuf\source\repos\WindowsFormHafta8\WindowsFormHafta8\obj\Debug\WindowsFormHafta8.Properties.Resources.resources
+C:\Users\yusuf\source\repos\WindowsFormHafta8\WindowsFormHafta8\obj\Debug\WindowsFormHafta8.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\WindowsFormHafta8\WindowsFormHafta8\obj\Debug\WindowsFormHafta8.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\WindowsFormHafta8\WindowsFormHafta8\bin\Debug\WindowsFormHafta8.exe.config
+C:\Users\yusuf\source\repos\WindowsFormHafta8\WindowsFormHafta8\bin\Debug\WindowsFormHafta8.exe
+C:\Users\yusuf\source\repos\WindowsFormHafta8\WindowsFormHafta8\bin\Debug\WindowsFormHafta8.pdb
+C:\Users\yusuf\source\repos\WindowsFormHafta8\WindowsFormHafta8\obj\Debug\WindowsFormHafta8.exe
+C:\Users\yusuf\source\repos\WindowsFormHafta8\WindowsFormHafta8\obj\Debug\WindowsFormHafta8.pdb

@@ -1,0 +1,38 @@
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\bin\Debug\ListeUygulama.exe.config
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\bin\Debug\ListeUygulama.exe
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\bin\Debug\ListeUygulama.pdb
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.Form1.resources
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.Properties.Resources.resources
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.exe
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.pdb
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.Baslangic.resources
+C:\Users\yusuf\source\repos\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.ListeToplam.resources
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\bin\Debug\ListeUygulama.exe.config
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\bin\Debug\ListeUygulama.exe
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\bin\Debug\ListeUygulama.pdb
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.csprojAssemblyReference.cache
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.Baslangic.resources
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.Form1.resources
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.ListeToplam.resources
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.Properties.Resources.resources
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.csproj.GenerateResource.cache
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.csproj.CoreCompileInputs.cache
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.exe
+D:\2020-2021 Güz\Görsel Programlama\hafta_10\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.pdb
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.csprojAssemblyReference.cache
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.Baslangic.resources
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.Form1.resources
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.Kronometre.resources
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.ListeToplam.resources
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.Properties.Resources.resources
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.csproj.GenerateResource.cache
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.csproj.CoreCompileInputs.cache
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.exe
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.pdb
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\bin\Debug\ListeUygulama.exe.config
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\bin\Debug\ListeUygulama.exe
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\bin\Debug\ListeUygulama.pdb
+D:\2020-2021 Güz\Görsel Programlama\hafta_11\ListeUygulama\ListeUygulama\obj\Debug\ListeUygulama.AsalSayiListele.resources

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication3\7_4\bin\Debug\7_4.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication3\7_4\bin\Debug\7_4.pdb
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication3\7_4\obj\Debug\7_4.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication3\7_4\obj\Debug\7_4.pdb

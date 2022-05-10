@@ -1,0 +1,25 @@
+c:\users\yusufegemencicek\documents\visual studio 2012\Projects\12_1\12_1\bin\Debug\12_1.exe.config
+c:\users\yusufegemencicek\documents\visual studio 2012\Projects\12_1\12_1\bin\Debug\12_1.exe
+c:\users\yusufegemencicek\documents\visual studio 2012\Projects\12_1\12_1\bin\Debug\12_1.pdb
+c:\users\yusufegemencicek\documents\visual studio 2012\Projects\12_1\12_1\obj\Debug\12_1.csprojResolveAssemblyReference.cache
+c:\users\yusufegemencicek\documents\visual studio 2012\Projects\12_1\12_1\obj\Debug\12_1.exe
+c:\users\yusufegemencicek\documents\visual studio 2012\Projects\12_1\12_1\obj\Debug\12_1.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_12\12_1\bin\Debug\12_1.exe.config
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_12\12_1\obj\Debug\12_1.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_12\12_1\obj\Debug\12_1.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_12\12_1\bin\Debug\12_1.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_12\12_1\bin\Debug\12_1.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_12\12_1\obj\Debug\12_1.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_12\12_1\bin\Debug\12_1.exe.config
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_12\12_1\obj\Debug\12_1.exe
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_12\12_1\obj\Debug\12_1.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_12\12_1\bin\Debug\12_1.exe
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_12\12_1\bin\Debug\12_1.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_12\12_1\obj\Debug\12_1.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_12\12_1\bin\Debug\12_1.exe.config
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_12\12_1\bin\Debug\12_1.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_12\12_1\bin\Debug\12_1.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_12\12_1\obj\Debug\12_1.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_12\12_1\obj\Debug\12_1.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_12\12_1\obj\Debug\12_1.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_12\12_1\obj\Debug\12_1.csproj.CoreCompileInputs.cache

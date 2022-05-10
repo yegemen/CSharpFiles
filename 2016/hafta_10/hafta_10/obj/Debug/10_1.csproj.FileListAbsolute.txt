@@ -1,0 +1,19 @@
+c:\users\yusufegemencicek.hkul\documents\visual studio 2012\Projects\hafta_10\hafta_10\bin\Debug\hafta_10.exe.config
+c:\users\yusufegemencicek.hkul\documents\visual studio 2012\Projects\hafta_10\hafta_10\bin\Debug\hafta_10.exe
+c:\users\yusufegemencicek.hkul\documents\visual studio 2012\Projects\hafta_10\hafta_10\bin\Debug\hafta_10.pdb
+c:\users\yusufegemencicek.hkul\documents\visual studio 2012\Projects\hafta_10\hafta_10\obj\Debug\10_1.csprojResolveAssemblyReference.cache
+c:\users\yusufegemencicek.hkul\documents\visual studio 2012\Projects\hafta_10\hafta_10\obj\Debug\hafta_10.exe
+c:\users\yusufegemencicek.hkul\documents\visual studio 2012\Projects\hafta_10\hafta_10\obj\Debug\hafta_10.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_10\hafta_10\bin\Debug\hafta_10.exe.config
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_10\hafta_10\obj\Debug\hafta_10.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_10\hafta_10\obj\Debug\hafta_10.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_10\hafta_10\bin\Debug\hafta_10.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_10\hafta_10\bin\Debug\hafta_10.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_10\hafta_10\obj\Debug\10_1.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\hafta_10\bin\Debug\hafta_10.exe.config
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\hafta_10\bin\Debug\hafta_10.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\hafta_10\bin\Debug\hafta_10.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\hafta_10\obj\Debug\10_1.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\hafta_10\obj\Debug\10_1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\hafta_10\obj\Debug\hafta_10.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\hafta_10\obj\Debug\hafta_10.pdb

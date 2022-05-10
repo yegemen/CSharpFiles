@@ -1,0 +1,18 @@
+C:\Users\Can\documents\visual studio 2012\Projects\ConsoleApplication1\turdonusumleri\bin\Debug\turdonusumleri.exe.config
+C:\Users\Can\documents\visual studio 2012\Projects\ConsoleApplication1\turdonusumleri\bin\Debug\turdonusumleri.exe
+C:\Users\Can\documents\visual studio 2012\Projects\ConsoleApplication1\turdonusumleri\bin\Debug\turdonusumleri.pdb
+C:\Users\Can\documents\visual studio 2012\Projects\ConsoleApplication1\turdonusumleri\obj\Debug\turdonusumleri.exe
+C:\Users\Can\documents\visual studio 2012\Projects\ConsoleApplication1\turdonusumleri\obj\Debug\turdonusumleri.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_2\ConsoleApplication1\turdonusumleri\bin\Debug\turdonusumleri.exe.config
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_2\ConsoleApplication1\turdonusumleri\obj\Debug\turdonusumleri.exe
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_2\ConsoleApplication1\turdonusumleri\obj\Debug\turdonusumleri.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_2\ConsoleApplication1\turdonusumleri\bin\Debug\turdonusumleri.exe
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_2\ConsoleApplication1\turdonusumleri\bin\Debug\turdonusumleri.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_2\ConsoleApplication1\turdonusumleri\obj\Debug\ornek.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\turdonusumleri\bin\Debug\turdonusumleri.exe.config
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\turdonusumleri\bin\Debug\turdonusumleri.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\turdonusumleri\bin\Debug\turdonusumleri.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\turdonusumleri\obj\Debug\ornek.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\turdonusumleri\obj\Debug\ornek.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\turdonusumleri\obj\Debug\turdonusumleri.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\turdonusumleri\obj\Debug\turdonusumleri.pdb

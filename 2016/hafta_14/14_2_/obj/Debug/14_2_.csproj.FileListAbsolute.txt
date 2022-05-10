@@ -1,0 +1,19 @@
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\14_2_\bin\Debug\14_2_.exe.config
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\14_2_\bin\Debug\14_2_.exe
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\14_2_\bin\Debug\14_2_.pdb
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\14_2_\bin\Debug\kutuphaneagac_.dll
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\14_2_\bin\Debug\kutuphaneagac_.pdb
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\14_2_\obj\Debug\14_2_.csprojResolveAssemblyReference.cache
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\14_2_\obj\Debug\14_2_.exe
+C:\Users\a.HKUL\Documents\Visual Studio 2012\Projects\14_1\14_2_\obj\Debug\14_2_.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_2_\bin\Debug\14_2_.exe.config
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_2_\obj\Debug\14_2_.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_2_\obj\Debug\14_2_.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_2_\bin\Debug\14_2_.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_2_\bin\Debug\14_2_.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_2_\bin\Debug\kutuphaneagac_.dll
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_2_\bin\Debug\kutuphaneagac_.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_14\14_2_\obj\Debug\14_2_.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_2_\bin\Debug\14_2_.exe.config
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_2_\obj\Debug\14_2_.exe
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_14\14_2_\obj\Debug\14_2_.pdb

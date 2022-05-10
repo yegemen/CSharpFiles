@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication3\7_3\bin\Debug\7_3.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication3\7_3\bin\Debug\7_3.pdb
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication3\7_3\obj\Debug\7_3.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication3\7_3\obj\Debug\7_3.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_7\7_3\obj\Debug\7_3.exe
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_7\7_3\obj\Debug\7_3.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_7\7_3\bin\Debug\7_3.exe
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_7\7_3\bin\Debug\7_3.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_7\7_3\obj\Debug\7_3.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_7\7_3\bin\Debug\7_3.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_7\7_3\bin\Debug\7_3.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_7\7_3\obj\Debug\7_3.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_7\7_3\obj\Debug\7_3.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_7\7_3\bin\Debug\7_3.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_7\7_3\bin\Debug\7_3.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_7\7_3\obj\Debug\7_3.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_7\7_3\obj\Debug\7_3.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_7\7_3\obj\Debug\7_3.pdb

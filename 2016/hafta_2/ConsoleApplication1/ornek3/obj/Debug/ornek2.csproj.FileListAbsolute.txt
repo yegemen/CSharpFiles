@@ -1,0 +1,21 @@
+C:\Users\Can\documents\visual studio 2012\Projects\ConsoleApplication1\ornek3\bin\Debug\ornek3.exe.config
+C:\Users\Can\documents\visual studio 2012\Projects\ConsoleApplication1\ornek3\bin\Debug\ornek3.exe
+C:\Users\Can\documents\visual studio 2012\Projects\ConsoleApplication1\ornek3\bin\Debug\ornek3.pdb
+C:\Users\Can\documents\visual studio 2012\Projects\ConsoleApplication1\ornek3\obj\Debug\ornek3.exe
+C:\Users\Can\documents\visual studio 2012\Projects\ConsoleApplication1\ornek3\obj\Debug\ornek3.pdb
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_2\ConsoleApplication1\ornek3\bin\Debug\ornek3.exe.config
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_2\ConsoleApplication1\ornek3\obj\Debug\ornek3.exe
+C:\Users\Yusuf Egemen\Desktop\görsel programlama\hafta_2\ConsoleApplication1\ornek3\obj\Debug\ornek3.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_2\ConsoleApplication1\ornek3\bin\Debug\ornek3.exe.config
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_2\ConsoleApplication1\ornek3\obj\Debug\ornek3.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_2\ConsoleApplication1\ornek3\obj\Debug\ornek3.pdb
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\ornek3\bin\Debug\ornek3.exe.config
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\ornek3\obj\Debug\ornek3.exe
+C:\Users\yusuf\Desktop\karışık\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\ornek3\obj\Debug\ornek3.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\ornek3\bin\Debug\ornek3.exe.config
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\ornek3\bin\Debug\ornek3.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\ornek3\bin\Debug\ornek3.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\ornek3\obj\Debug\ornek2.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\ornek3\obj\Debug\ornek2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\ornek3\obj\Debug\ornek3.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_2\ConsoleApplication1\ornek3\obj\Debug\ornek3.pdb

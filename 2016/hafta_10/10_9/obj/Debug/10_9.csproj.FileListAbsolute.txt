@@ -1,0 +1,14 @@
+C:\Users\yusufegemencicek.HKUL\documents\visual studio 2012\Projects\hafta_10\10_9\bin\Debug\10_9.exe.config
+C:\Users\yusufegemencicek.HKUL\documents\visual studio 2012\Projects\hafta_10\10_9\bin\Debug\10_9.exe
+C:\Users\yusufegemencicek.HKUL\documents\visual studio 2012\Projects\hafta_10\10_9\bin\Debug\10_9.pdb
+C:\Users\yusufegemencicek.HKUL\documents\visual studio 2012\Projects\hafta_10\10_9\obj\Debug\10_9.exe
+C:\Users\yusufegemencicek.HKUL\documents\visual studio 2012\Projects\hafta_10\10_9\obj\Debug\10_9.pdb
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_10\10_9\bin\Debug\10_9.exe.config
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_10\10_9\obj\Debug\10_9.exe
+C:\Users\yusuf\Desktop\karışık\görsel programlama\hafta_10\10_9\obj\Debug\10_9.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\10_9\bin\Debug\10_9.exe.config
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\10_9\bin\Debug\10_9.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\10_9\bin\Debug\10_9.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\10_9\obj\Debug\10_9.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\10_9\obj\Debug\10_9.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_10\10_9\obj\Debug\10_9.pdb

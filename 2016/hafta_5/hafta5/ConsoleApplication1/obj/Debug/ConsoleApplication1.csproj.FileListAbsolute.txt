@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\sevilay\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\yusuf\Desktop\Yusuf\Diğer\MYO\2. sınıf\1. Dönem\görsel programlama 1\hafta_5\hafta5\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
